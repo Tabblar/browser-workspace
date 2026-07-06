@@ -1,0 +1,26 @@
+{
+  "name": "tabblar-browser-workspace",
+  "version": "1.0.0",
+  "description": "Browser Workspace save and switch between browser workspaces to stay focused and organized",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "browser-workspace",
+    "workspace",
+    "tabs",
+    "browser",
+    "productivity",
+    "tab-manager",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Tabblar",
+  "license": "ISC",
+  "homepage": "https://tabblar.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabblar/browser-workspace.git"
+  }
+}
